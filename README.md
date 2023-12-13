@@ -11,9 +11,9 @@
       <th> 개발 기간 </th>
     </tr>  
     <tr>
-      <td align="center"> <code> html </code> <code> css(bootstrap) </code> <code> javascript(next.js?) </code> <code> python(fastapi) </code> </td>
-      <td align="center"> <code> 웹서비스(관광) </code> </td>
-      <td align="center"> <code> 2023.12.10 ~ 2023.04.31 </code> </td>
+      <td align="center"> <code>html</code> <code>css(bootstrap)</code> <code>javascript(next.js?)</code> <code>python(fastapi)</code> </td>
+      <td align="center"> <code>웹서비스(관광)</code> </td>
+      <td align="center"> <code>2023.12.10 ~ 2023.04.31</code> </td>
     </tr>
   </table>
 </div>
