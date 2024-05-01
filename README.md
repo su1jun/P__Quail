@@ -17,3 +17,8 @@
     </tr>
   </table>
 </div>
+
+1. be - java - spring boot 활용
+2. db - postgresql, redis
+3. de - hadoop, kafka
+4. ci/cd - jenkins + kubernetes
