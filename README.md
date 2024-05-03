@@ -1,7 +1,7 @@
-# Road Rider
+# 메추리(Quail)
 ## 📒Description
 
-여행 관련 데이터를 이용한 자전거 여행 정보 제공 및 경로 추천 웹사이트
+여행 관련 데이터를 이용한 서비스 플랫폼
 
 <div align="center">
   <table>
