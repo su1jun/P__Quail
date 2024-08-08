@@ -22,3 +22,4 @@
 2. db - postgresql, redis
 3. de - hadoop, kafka
 4. ci/cd - jenkins + kubernetes
+5. 
